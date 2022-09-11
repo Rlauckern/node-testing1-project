@@ -130,8 +130,3 @@ describe("[Exercise 6] Car", () => {
     expect(focus.drive(100)).toBe(100)
   })
 });
-
-describe("[Exercise 7] isEvenNumberAsync", () => {
-  // test('[19] resolves true if passed an even number', () => {})
-  // test('[20] resolves false if passed an odd number', () => {})
-});
